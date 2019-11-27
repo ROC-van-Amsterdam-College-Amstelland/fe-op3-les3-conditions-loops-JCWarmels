@@ -1,1 +1,18 @@
 /* stylesheet */
+.flexcontainer
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+button
+{ 
+    width: 100%;
+    margin-right: 10px;
+}
+
+#myWaarde5, #myWaarde3
+{
+    color: red;
+}
