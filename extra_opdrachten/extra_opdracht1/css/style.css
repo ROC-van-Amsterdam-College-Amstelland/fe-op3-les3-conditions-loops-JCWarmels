@@ -1,1 +1,23 @@
 /* stylesheet */
+.flexcontainer
+{
+    display: flex;
+    flex-direction: row;
+}
+#parameters
+{
+    width: 200px;
+    height: 400px;    
+}
+button
+{
+    width: 50px;
+    height: 50px;
+}
+#myDisplay
+{
+    display: flex;
+    flex-direction: row;
+    height: 30px;
+    width: 196px;
+}
