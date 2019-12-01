@@ -17,7 +17,21 @@ button
 #myDisplay
 {
     display: flex;
-    flex-direction: row;
-    height: 30px;
+    flex-direction: row-reverse;
+    height: 50px;
     width: 196px;
+}
+#Uitkomst
+{
+  display: flex;
+  flex-direction: row-reverse;
+  height: 30px;
+  width: 196px;
+}
+#box
+{
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
 }
