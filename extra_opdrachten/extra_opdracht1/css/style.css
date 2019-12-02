@@ -26,8 +26,9 @@ button
   display: flex;
   flex-direction: row-reverse;
   height: 10px;
-  width: 196px;
-  margin: 5px;
+  width: 180px;
+  padding: 8px;
+  font-size: small;
 }
 #box
 {
