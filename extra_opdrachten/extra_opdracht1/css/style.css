@@ -18,15 +18,16 @@ button
 {
     display: flex;
     flex-direction: row-reverse;
-    height: 50px;
+    height: 30px;
     width: 196px;
 }
 #Uitkomst
 {
   display: flex;
   flex-direction: row-reverse;
-  height: 30px;
+  height: 10px;
   width: 196px;
+  margin: 5px;
 }
 #box
 {
